@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/project-12/static/css/main.31d6cfe0.css",
-    "main.js": "/project-12/static/js/main.8492fafb.js",
+    "main.js": "/project-12/static/js/main.d9509887.js",
     "static/js/787.25eaef86.chunk.js": "/project-12/static/js/787.25eaef86.chunk.js",
     "static/media/map.png": "/project-12/static/media/map.6ecfffaf99c8e9dfb0b3.png",
     "static/media/FillingStation.svg": "/project-12/static/media/FillingStation.800a60ffc76532910e137bdd4aa4dddc.svg",
@@ -23,11 +23,11 @@
     "index.html": "/project-12/index.html",
     "static/media/ArrowButtonMain.svg": "/project-12/static/media/ArrowButtonMain.3e040dce24bac708a169bd5f4bb08095.svg",
     "static/media/ArrowButtonHover.svg": "/project-12/static/media/ArrowButtonHover.9f4c5ed5e9ac82344dbc974df79ea239.svg",
-    "main.8492fafb.js.map": "/project-12/static/js/main.8492fafb.js.map",
+    "main.d9509887.js.map": "/project-12/static/js/main.d9509887.js.map",
     "787.25eaef86.chunk.js.map": "/project-12/static/js/787.25eaef86.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.31d6cfe0.css",
-    "static/js/main.8492fafb.js"
+    "static/js/main.d9509887.js"
   ]
 }
